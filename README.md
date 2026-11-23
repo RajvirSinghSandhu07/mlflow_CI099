@@ -1,6 +1,6 @@
 # Champion–Challenger Model Comparison with Hugging Face and MLflow
 
-**Student USN:** 1MS25CI085 &nbsp;·&nbsp; Skill Lab (MLOps with MLflow)
+**Student USN:** 1MS25CI099 &nbsp;·&nbsp; Skill Lab (MLOps with MLflow)
 
 ## 1. Task and models
 
